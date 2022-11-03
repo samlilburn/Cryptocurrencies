@@ -1,2 +1,2 @@
 # Cryptocurrencies
-Preprocessing, reducing, clustering using K-means and visualizing. 
+Preprocessing, reducing, clustering cryptocurrency data using K-means. Then, visualizing the clustered data. 
